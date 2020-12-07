@@ -3,3 +3,8 @@ We need to read your url to compare it with our list so our script will automati
 Permissions:
 Read your url to compare it to our list.
 Delete cookie of specific websiste.
+cookies
+storage
+webRequest
+webRequestBlocking
+<all_urls> 
