@@ -6,3 +6,4 @@ Permissions:
     "webRequest",
     "webRequestBlocking",
     "<all_urls>"
+We clear cookie. Nothing illegal.
