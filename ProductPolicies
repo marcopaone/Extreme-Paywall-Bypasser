@@ -1,7 +1,6 @@
 We don't grab and don't steal your data. 
 We need to read your url to compare it with our list so our script will automatically decide what to do to delete popups on the site.
 Permissions:
-"permissions": [
     "cookies",
     "storage",
     "webRequest",
